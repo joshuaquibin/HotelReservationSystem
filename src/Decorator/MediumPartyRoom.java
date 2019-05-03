@@ -1,6 +1,9 @@
-public class SmallPartyRoom {
+package Decorator;
+
+public class MediumPartyRoom {
     int numberOfRoomsAvailable;
     double cost;
+
     public double getCost(){
         return cost;
     }

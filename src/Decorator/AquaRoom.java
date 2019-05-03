@@ -1,8 +1,12 @@
-public class MediumPartyRoom {
+package Decorator;
+
+public class AquaRoom {
     int numberOfRoomsAvailable;
+    String restrictions;
     double cost;
 
     public double getCost(){
         return cost;
     }
+
 }

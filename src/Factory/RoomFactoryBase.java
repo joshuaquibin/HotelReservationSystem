@@ -1,3 +1,7 @@
+package Factory;
+
+import Decorator.Room;
+
 public class RoomFactoryBase {
 
     private RoomFactoryBase(){

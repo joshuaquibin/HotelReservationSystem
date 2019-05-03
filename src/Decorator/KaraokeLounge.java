@@ -1,3 +1,5 @@
+package Decorator;
+
 public class KaraokeLounge {
     int numberOfRoomsAvailable;
     double cost;

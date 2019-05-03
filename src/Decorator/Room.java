@@ -1,3 +1,5 @@
+package Decorator;
+
 public class Room {
     String description;
     int capacity;

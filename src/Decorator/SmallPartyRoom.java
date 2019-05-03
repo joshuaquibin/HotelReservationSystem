@@ -1,10 +1,9 @@
-public class AquaRoom {
-    int numberOfRoomsAvailable;
-    String restrictions;
-    double cost;
+package Decorator;
 
+public class SmallPartyRoom {
+    int numberOfRoomsAvailable;
+    double cost;
     public double getCost(){
         return cost;
     }
-
 }
